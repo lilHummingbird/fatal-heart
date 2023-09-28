@@ -28,7 +28,7 @@ Also. Do read the controls, they tell you all commands and actions you'll be abl
 
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/255/479/85b.png" width="150">
 
-I cAnT tElL yOu WhAt To Do
+"I cAnT tElL yOu WhAt To Do"
 
 
 **pickup** : Lets you specify an object to pickup.
