@@ -20,7 +20,11 @@ Also. Do read the controls, they tell you all commands and actions you'll be abl
 
 **controls**: Just gives you a short list of suggested keywords.
 
-**ENTER(↵) **: Some points in the story pauses to let you read if a lot of text or important details come up. You can then press the ENTER(↵) key to progress.
+<<<<<<< HEAD
+**ENTER(↵)** : Some points in the story pauses to let you read if a lot of text or important details come up. You can then press the ENTER(↵) key to progress.
+=======
+**ENTER(↵)** : Some points in the story pauses to let you read if a lot of text or important details come up. You can then press the ENTER(↵) key to progress.
+
 
 *Keywords and progression*:
 

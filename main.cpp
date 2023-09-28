@@ -5,10 +5,15 @@
 //  Created by Persephone on 24/09/2023.
 //
 
+// Writing/reading to/from console/files
 #include <iostream>
+#include <fstream>
+#include "headers/art.hpp"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+    
+    
+    
+    owl_ascii();
     return 0;
 }
