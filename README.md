@@ -14,19 +14,19 @@ Also. Do read the controls, they tell you all commands and actions you'll be abl
 
 ### Controls
 
-*General help*:
+<ins>*General help*</ins>:
 
 **help**: Gives you this list of controls. Though probably badly formated. Also gives you a link to my page at the bottom so you can come to github and complain about broken features if there's something I've managed to miss.
 
 **controls**: Just gives you a short list of suggested keywords.
 
-<<<<<<< HEAD
+
 **ENTER(↵)** : Some points in the story pauses to let you read if a lot of text or important details come up. You can then press the ENTER(↵) key to progress.
-=======
+
 **ENTER(↵)** : Some points in the story pauses to let you read if a lot of text or important details come up. You can then press the ENTER(↵) key to progress.
 
 
-*Keywords and progression*:
+<ins>*Keywords and progression*</ins>:
 
 *Keywords are not case sensitive!*: PICKUP and pickup is exactly the same. The game won't notice if you're being sarky or mocking.
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/255/479/85b.png" width="150">
