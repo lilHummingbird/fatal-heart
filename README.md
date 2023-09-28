@@ -14,31 +14,31 @@ Also. Do read the controls, they tell you all commands and actions you'll be abl
 
 ### Controls
 
-*General help*:
+<ins>*General help*</ins>:
 
 **help**: Gives you this list of controls. Though probably badly formated. Also gives you a link to my page at the bottom so you can come to github and complain about broken features if there's something I've managed to miss.
 
 **controls**: Just gives you a short list of suggested keywords.
 
-<<<<<<< HEAD
-**ENTER(↵)** : Some points in the story pauses to let you read if a lot of text or important details come up. You can then press the ENTER(↵) key to progress.
-=======
 **ENTER(↵)** : Some points in the story pauses to let you read if a lot of text or important details come up. You can then press the ENTER(↵) key to progress.
 
-
-*Keywords and progression*:
+<ins>*Keywords and progression*</ins>:
 
 *Keywords are not case sensitive!*: PICKUP and pickup is exactly the same. The game won't notice if you're being sarky or mocking.
+
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/255/479/85b.png" width="150">
 
 I cAnT tElL yOu WhAt To Do
 
 
-**pickup**: Lets you specify an object to pickup.
+**pickup** : Lets you specify an object to pickup.
 
-**drop**: Lets you specify an object to drop on the ground, down a hole, etc.
+**drop** : Lets you specify an object to drop on the ground, down a hole, etc.
 
-**move**: Lets you move to different "*points of interest*" within the "*scene*" you're currently in. You might encounter a clearing with a flowerpatch and a well. You can then type "move well" or "move flowerpatch" to move to that POI. Be careful to write the POI name like the game has written it or it will likely not work as I am too lazy to actually put in aliases for things.
+**move** : Lets you move to different "*points of interest*" within the "*scene*" you're currently in. You might encounter a clearing with a flowerpatch and a well. You can then type "move well" or "move flowerpatch" to move to that POI. Be careful to write the POI name like the game has written it or it will likely not work as I am too lazy to actually put in aliases for things.
 
-**go**: Lets you move between "*scenes*". You might encounter a place with a road that goes north and a road that goes west. You can then type "go west" or "go north" to move to that scene. 
+**go** : Lets you move between "*scenes*". You might encounter a place with a road that goes north and a road that goes west. You can then type "go west" or "go north" to move to that scene. 
 
+**"object"** : Some places you may encounter an object you can use in a different way than others. If there's a ladder you might want to go up or down this ladder. You do so by simply typing the name of the object. Eg. You encounter a ladder leading up into a hole in the ceiling. "ladder". You climb up the ladder and end up in the room above. etc etc etc.
+
+**look** : You might encounter something you want to take a real good look at before you take it with you. You can do so by typing "look key" or similar to get a more detailed description of the object, structure or similar. Depending on what it is you might have to move aroud the POIs in the scene.
