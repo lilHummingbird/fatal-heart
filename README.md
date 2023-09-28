@@ -20,12 +20,14 @@ Also. Do read the controls, they tell you all commands and actions you'll be abl
 
 **controls**: Just gives you a short list of suggested keywords.
 
-**ENTER(↵) **: Some points in the story pauses to let you read if a lot of text or important details come up. You can then press the ENTER(↵) key to progress.
+**ENTER(↵)** : Some points in the story pauses to let you read if a lot of text or important details come up. You can then press the ENTER(↵) key to progress.
 
 *Keywords and progression*:
 
 *Keywords are not case sensitive!*: PICKUP and pickup is exactly the same. The game won't notice if you're being sarky or mocking.
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/255/479/85b.png" width="150">
+
+I cAnT tElL yOu WhAt To Do
 
 
 **pickup**: Lets you specify an object to pickup.
